@@ -8,7 +8,7 @@ This corpus is the Spanish translation of the Siminchik and Huqariq corpus [(Zev
 ```
 @inproceedings{zevallos-etal-2022-huqariq,
     title = "Huqariq: A Multilingual Speech Corpus of Native Languages of {P}eru for{S}peech Recognition",
-    author = "Zevallos, Rodolfo  and Camacho, Luis  andn Melgarejo, Nelsi",
+    author={Zevallos, Rodolfo and Camacho, Luis and Melgarejo, Nelsi},
     booktitle = "Proceedings of the Thirteenth Language Resources and Evaluation Conference",
     month = jun,
     year = "2022",
