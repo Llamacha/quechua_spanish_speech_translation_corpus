@@ -2,7 +2,7 @@
 
 This corpus is the Spanish translation of the Siminchik and Huqariq corpus [(Zevallos et al., 2022)](https://arxiv.org/abs/2207.05498). It comprises 51 hours, 16 minutes of clean speech in Quechua, translated into Spanish.
 
-[File link](https://drive.google.com/file/d/1bGSX88Kc3jq09evXKPhtlaC5hqmqkdUJ/view?usp=sharing)
+[Corpus link](https://drive.google.com/file/d/1bGSX88Kc3jq09evXKPhtlaC5hqmqkdUJ/view?usp=sharing)
 
 ## Citation 
 
