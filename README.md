@@ -7,16 +7,11 @@ This corpus is the Spanish translation of the Siminchik [(Cardenas et al., 2022)
 ## Citation 
 
 ```
-@inproceedings{zevallos-etal-2022-huqariq,
-    title = {"Huqariq: A Multilingual Speech Corpus of Native Languages of {P}eru for{S}peech Recognition"},
-    author={Zevallos, Rodolfo and Camacho, Luis and Melgarejo, Nelsi},
-    booktitle = {"Proceedings of the Thirteenth Language Resources and Evaluation Conference"},
-    month = {jun},
-    year = {"2022"},
-    address = {"Marseille, France"},
-    publisher = {"European Language Resources Association"},
-    url = {"https://aclanthology.org/2022.lrec-1.537"},
-    pages = {"5029--5034"},
+@article{cardenas2018siminchik,
+  title={Siminchik: A speech corpus for preservation of southern quechua},
+  author={Cardenas, Ronald and Zevallos, Rodolfo and Baquerizo, Reynaldo and Camacho, Luis},
+  journal={ISI-NLP 2},
+  pages={21},
+  year={2018}
 }
-
 ```
